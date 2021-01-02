@@ -11,7 +11,7 @@ function App() {
           alt="logo" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://goodcoder.app"
           target="_blank"
           rel="noopener noreferrer"
         >
